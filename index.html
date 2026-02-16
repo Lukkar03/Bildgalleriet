@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <title>Mitt bildgalleri</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Mitt enkla bildgalleri</h1>
+  </header>
+
+  <main>
+    <section aria-label="Bildfilter">
+      <div class="filters">
+        <div class="tabs">
+          <button class="tab-btn active" data-category="all">Alla</button>
+          <button class="tab-btn" data-category="nature">Natur</button>
+          <button class="tab-btn" data-category="city">Stad</button>
+          <button class="tab-btn" data-category="animals">Djur</button>
+          <button class="tab-btn" data-category="food">Mat</button>
+        </div>
+
+        <div class="search-box">
+          <label for="search">Sök bilder:</label>
+          <input type="text" id="search" placeholder="Sök på taggar...">
+        </div>
+      </div>
+    </section>
+
+    <section aria-label="Bildgalleri">
+      <div id="gallery" class="gallery"></div>
+    </section>
+
+    <section aria-label="Stor bild">
+      <div id="viewer" class="viewer">
+        <p>Välj en bild i galleriet.</p>
+        <img id="viewer-img" src="" alt="" class="hidden">
+        <p id="viewer-title"></p>
+      </div>
+    </section>
+  </main>
+
+  <script src="script.js" type="module"></script>
+</body>
+</html>

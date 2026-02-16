@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "City 1",
+    "category": "city",
+    "thumbnail": "images/city1-thumb.jpeg",
+    "full": "images/city1-full.jpeg",
+    "tags": ["city"]
+  },
+  {
+    "id": 2,
+    "title": "Nature 1",
+    "category": "nature",
+    "thumbnail": "images/natur1-thumb.jpeg",
+    "full": "images/natur1-full.jpeg",
+    "tags": ["nature"]
+  },
+  {
+    "id": 3,
+    "title": "Portrait 1",
+    "category": "food",
+    "thumbnail": "images/thumbs/pexels-alena-shekhovtcova-6941027 (1).jpg",
+    "full": "images/pexels-alena-shekhovtcova-6941027.jpg",
+    "tags": ["food"]
+  },
+  {
+    "id": 4,
+    "title": "Animal 1",
+    "category": "animals",
+    "thumbnail": "images/thumbs/pexels-alex-andrews-271121-2295744 (1).jpg",
+    "full": "images/pexels-alex-andrews-271121-2295744.jpg",
+    "tags": ["animals"]
+  },
+  {
+    "id": 5,
+    "title": "Nature 2",
+    "category": "nature",
+    "thumbnail": "images/thumbs/pexels-alexandre-bringer-1853849-3637060 (1).jpg",
+    "full": "images/pexels-alexandre-bringer-1853849-3637060.jpg",
+    "tags": ["nature"]
+  },
+  {
+    "id": 6,
+    "title": "Portrait 2",
+    "category": "city",
+    "thumbnail": "images/thumbs/pexels-anna-hinckel-3008225-4598880 (1).jpg",
+    "full": "images/pexels-anna-hinckel-3008225-4598880.jpg",
+    "tags": ["city"]
+  },
+  {
+    "id": 7,
+    "title": "Portrait 3",
+    "category": "animals",
+    "thumbnail": "images/thumbs/pexels-aramis-cartam-1316421-7003157 (1).jpg",
+    "full": "images/pexels-aramis-cartam-1316421-7003157.jpg",
+    "tags": ["animals"]
+  },
+  {
+    "id": 8,
+    "title": "food 2",
+    "category": "food",
+    "thumbnail": "images/thumbs/pexels-barfisch-pix-115740 (1).jpg",
+    "full": "images/pexels-barfisch-pix-115740.jpg",
+    "tags": ["food"]
+  },
+  {
+    "id": 9,
+    "title": "Portrait 4",
+    "category": "nature",
+    "thumbnail": "images/thumbs/pexels-benjaminberiksen-35088851 (1).jpg",
+    "full": "images/pexels-benjaminberiksen-35088851.jpg",
+    "tags": ["nature"]
+  },
+  {
+    "id": 10,
+    "title": "Portrait 5",
+    "category": "city",
+    "thumbnail": "images/thumbs/pexels-budget-bizar-92378004-32692733 (1).jpg",
+    "full": "images/pexels-budget-bizar-92378004-32692733.jpg",
+    "tags": ["city"]
+  },
+  {
+    "id": 11,
+    "title": "Portrait 6",
+    "category": "animals",
+    "thumbnail": "images/thumbs/pexels-edson-cuentas-583635811-17046862 (1).jpg",
+    "full": "images/pexels-edson-cuentas-583635811-17046862.jpg",
+    "tags": ["animals"]
+  },
+  {
+    "id": 12,
+    "title": "Food 1",
+    "category": "food",
+    "thumbnail": "images/thumbs/pexels-enginakyurt-2235832 (1).jpg",
+    "full": "images/pexels-enginakyurt-2235832.jpg",
+    "tags": ["food"]
+  },
+  {
+    "id": 13,
+    "title": "Portrait 7",
+    "category": "nature",
+    "thumbnail": "images/thumbs/pexels-febe-vanermen-180443766-11284696 (1).jpg",
+    "full": "images/pexels-febe-vanermen-180443766-11284696.jpg",
+    "tags": ["nature"]
+  },
+  {
+    "id": 14,
+    "title": "Portrait 8",
+    "category": "nature",
+    "thumbnail": "images/thumbs/pexels-irene-asthetik-2147866784-31652640 (1).jpg",
+    "full": "images/pexels-irene-asthetik-2147866784-31652640.jpg",
+    "tags": ["nature"]
+  },
+  {
+    "id": 15,
+    "title": "Portrait 9",
+    "category": "animals",
+    "thumbnail": "images/thumbs/pexels-irina-solianyk-102495749-16337823 (1).jpg",
+    "full": "images/pexels-irina-solianyk-102495749-16337823.jpg",
+    "tags": ["animals"]
+  },
+  {
+    "id": 16,
+    "title": "City 3",
+    "category": "city",
+    "thumbnail": "images/thumbs/pexels-jan-van-der-wolf-11680885-24866736 (1).jpg",
+    "full": "images/pexels-jan-van-der-wolf-11680885-24866736.jpg",
+    "tags": ["city"]
+  },
+  {
+    "id": 17,
+    "title": "Portrait 10",
+    "category": "city",
+    "thumbnail": "images/thumbs/pexels-mineiamartins-29081931.jpg",
+    "full": "images/pexels-mineiamartins-29081931.jpg",
+    "tags": ["city"]
+  },
+  {
+    "id": 18,
+    "title": "Animals 4",
+    "category": "animals",
+    "thumbnail": "images/thumbs/pexels-pixabay-33045 (1).jpg",
+    "full": "images/pexels-pixabay-33045.jpg",
+    "tags": ["animals"]
+  },
+  {
+    "id": 19,
+    "title": "Portrait 11",
+    "category": "food",
+    "thumbnail": "images/thumbs/pexels-romjan-aly-17373336-6428247 (1).jpg",
+    "full": "images/pexels-romjan-aly-17373336-6428247.jpg",
+    "tags": ["food"]
+  },
+  {
+    "id": 20,
+    "title": "Portrait 12",
+    "category": "food",
+    "thumbnail": "images/thumbs/pexels-valeriya-1123249 (1).jpg",
+    "full": "images/pexels-valeriya-1123249.jpg",
+    "tags": ["food"]
+  }
+]
