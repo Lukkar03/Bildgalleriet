@@ -27,11 +27,9 @@ const mockImages = [
   }
 ];
 
-//
-// -------------------------
+
 // FILTER BY CATEGORY
-// -------------------------
-//
+
 
 test('filterByCategory returnerar korrekt urval', () => {
   const result = filterByCategory(mockImages, 'nature');
@@ -44,11 +42,9 @@ test('filterByCategory med "all" returnerar alla', () => {
   expect(result.length).toBe(3);
 });
 
-//
-// -------------------------
+
 // FILTER BY SEARCH
-// -------------------------
-//
+
 
 test('filterBySearch hittar bilder via taggar', () => {
   const result = filterBySearch(mockImages, 'skog');
@@ -67,11 +63,9 @@ test('filterBySearch returnerar inte tomt om det finns match', () => {
   expect(result.length).toBeGreaterThan(0);
 });
 
-//
-// -------------------------
+
 // PARSE IMAGE DATA
-// -------------------------
-//
+
 
 test('parseImageData filtrerar bort ogiltiga objekt', () => {
   const badData = [
